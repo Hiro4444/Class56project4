@@ -1,0 +1,13 @@
+body {text-align:center;
+      background-color:blanchedalmond;}
+
+div {margin-top:15px;}
+
+.img-section {Display:flex;
+              justify-content:center;
+               width:100px;
+               height:auto;
+
+.section-style {margin-right:25px;
+                margin-left:25px;
+                background background-color:blanchedalmond;}
